@@ -11,6 +11,7 @@ Hi, I'm Alex. You might recognize me as GitHub's mascot.
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|     SQL       |
+|     2|    EXCEL      |
+|     3|   PYTHON      |
+|     4|    GIT        |
