@@ -2,4 +2,4 @@
 
 ## АРХИТЕКТУРА АНАЛИТИЧЕСКОГО РЕШЕНИЯ
 
-![Архитектура аналитического решения](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура аналитического решение(первая попытка).drawio)
+![Архитектура](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура.drawio)
