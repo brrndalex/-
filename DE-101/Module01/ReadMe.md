@@ -11,4 +11,6 @@
 
 ![Screnshort](https://github.com/brrndalex/Training/blob/main/Архитектура.png)
 
+А теперь собственная разработка, собственный вариант:
+
 ## 3.Аналитика в Excel.
