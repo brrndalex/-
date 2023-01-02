@@ -9,7 +9,7 @@
 
 В качестве образца использовал пример из теоретического видео к модулю:
 
-![Screnshort](https://github.com/brrndalex/Training/blob/main/Архитектура.png)
+![Screnshort](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура.png)
 
 А теперь собственная разработка, собственный вариант:
 
