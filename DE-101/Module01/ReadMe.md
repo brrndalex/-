@@ -2,4 +2,4 @@
 
 ## АРХИТЕКТУРА АНАЛИТИЧЕСКОГО РЕШЕНИЯ
 
-![Image alt](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура аналитического решение(первая попытка).png)
+![Архитектура аналитического решения](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура аналитического решение(первая попытка).png)
