@@ -18,7 +18,7 @@ Hi, I'm Alex. You might recognize me as GitHub's mascot.
 |     3|   PYTHON      |
 |     4|    GIT        |
 
-![Screnshort](https://github.com/brrndalex/Training/blob/main/DE-101/Module01/Архитектура аналитического решение(первая попытка).png)
+![Screnshort](https://github.com/brrndalex/Training/blob/main/SQL_mindmap.png)
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
 
